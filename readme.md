@@ -1,6 +1,6 @@
 # Solving problems
 
-## Problem 1.
+## Problem N° 1
 
 ### The program:
 
@@ -30,3 +30,20 @@ for (let i = 0; i < 6; i++)
 { totalH *= 2; }
 return totalH;
 }`
+
+## Problem N° 2
+
+You are given a single string. You need to convert each character into it's ASCII value and add the odd numbers together.
+
+### example
+
+Input: ABC
+
+#### `A,B,C → 65,66,67`
+
+Take odd numbers
+`65+67=132`
+
+### Solution:
+
+Look at the script.js file
